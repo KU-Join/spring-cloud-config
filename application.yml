@@ -1,0 +1,4 @@
+token:
+  secret: "{cipher}AQCESO6xOI/buhwgGlBn+65UqW5xEccYfkf+Ie3p9fjBFw1qOxBp83g2dOSaM4XsLOOY6VCa1bUTNcWKS+vMuBvofTJYzcXnRSg7fFaCoK72cce9JfVRunOg26L4aWE80uUBK+FIVzVytOY7hIad7uC7EuIhIegax6wp3oKMqE3l8Y6V5YdJzP1LArfTIzMAWtzgMEpmgl+hRQPff6l/F5/NJS2LPaBqe533BIULYptvxFi4VA6wpBPuwWCUy0RYQLYVxAW5W/Y2C0k+g107EtxmVmU2rav7Jmxqe4q1utWXvjQvMK+sklOjYHVHsYjxYERpiAvPiH6KxGBGYA9JnkiQbHMA8Chmxq4lEw0crn58G5Uaw/kKoGmKRHG3Rcj+Z5A="
+  access-token-expiration-time: 900000 # 15분
+  refresh-token-expiration-time: 1210500000 # 2주
