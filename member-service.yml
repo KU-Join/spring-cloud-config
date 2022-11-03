@@ -10,4 +10,4 @@ spring:
 #     orders_is_empty: There is no item.
 
 greeting:
-  message: welcome!!!!
+  message: test welcome!!!!
